@@ -8,7 +8,7 @@ Soy estudiante de ASIR
 - 📫 Como contactarme:angeldelahoz0309@gmail.com
 - ⚡ Perso a  seguir: Cristiano Ronal Dos Santos Aveiro
 
-Como dijo una vez Cristiano Ronaldo
+Como dijo una vez Cristiano Ronaldo:
 
 > Yo no quiero andar diciendo mis sueños,
 > quiero demostrarlos
